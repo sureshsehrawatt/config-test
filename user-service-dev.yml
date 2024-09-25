@@ -3,3 +3,6 @@ server:
 spring:
   security:
     enabled: false
+
+app:
+  welcomeMsg: Hello from the client configuration application.
