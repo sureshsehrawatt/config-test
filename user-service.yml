@@ -1,5 +1,2 @@
 server:
-  port: 6666
-
-app:
-  welcomeMsg: Hello from the default -------------- client configuration application.
+  port: 8890

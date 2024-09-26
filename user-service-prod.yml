@@ -1,5 +1,0 @@
-server:
-  port: 7777
-
-app:
-  welcomeMsg: Hello from the client configuration application.
