@@ -1,9 +1,5 @@
 server:
-  port: 8086
-
-spring:
- application:
-   name: user-service
+  port: 7777
 
 app:
   welcomeMsg: Hello from the client configuration application.
